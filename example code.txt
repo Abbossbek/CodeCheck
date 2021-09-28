@@ -1,0 +1,6 @@
+
+            const int number = 566;
+            const float number1 = 566.55f;
+            const int number2 = 9888;
+            const double number3 = 788.5857;
+            const char number4 = '5';
